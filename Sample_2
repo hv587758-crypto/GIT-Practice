@@ -9,11 +9,12 @@ int main ()
 	scanf("%d',a );
 	if ( a%2==0)
 	{
-		printf("Even ");
-	}
+		printf("Even ");  //prints even if the number is so 
+
+}
 	else 
 	{
-		printf("Odd ");
+		printf("Odd ");  //prints odd if the number is so 
 	}
 
 	return 0;
